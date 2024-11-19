@@ -1,0 +1,23 @@
+/* Style for the h1 (header) element */
+h1 {
+    text-align: center; /* Centers the text horizontally within its container */
+ }
+ 
+ /* Style for the li (list item) elements */
+ li {
+     font-weight: bold; /* Makes the text bold */
+     color: green; /* Sets the text color to green */
+     padding: 10px; /* Adds some padding around the text */
+     margin: 5px; /* Adds some space between the list items */
+     list-style-type: none; /* Removes the default bullet points */
+     text-decoration: none; /* Removes the default underline */
+ }
+ 
+ /* Style for the ul (unordered list) element */
+ ul {
+     border: 1px solid black; /* Adds a 1px solid black border around the list */
+     background-color: lightgray; /* Sets the background color of the list to light gray */
+     border-radius: 5px;
+     
+ }
+ 
